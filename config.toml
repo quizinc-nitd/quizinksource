@@ -1,4 +1,4 @@
-baseurl = "https://quizink.quizinc.in"
+baseurl = "https://quizink.quizinc.in/"
 title = "QuizInk"
 theme = "hugo-nederburg-theme"
 languageCode = "en-us"
