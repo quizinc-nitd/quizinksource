@@ -1,4 +1,4 @@
-baseurl = "/"
+baseurl = "/quizinksource"
 title = "QuizInk"
 theme = "hugo-nederburg-theme"
 languageCode = "en-us"
